@@ -14,3 +14,6 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+#mockup
+
+![] (04-web-apis-homework-demo (1).gif)
