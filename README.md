@@ -16,4 +16,4 @@ THEN I can save my initials and score
 
 #mockup
 
-![] (04-web-apis-homework-demo (1).gif)
+![Github] (./assets/04-web-apis-homework-demo (1).gif)
