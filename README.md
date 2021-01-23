@@ -16,4 +16,7 @@ THEN I can save my initials and score
 
 #mockup
 
-![Github] (./assets/04-web-apis-homework-demo (1).gif)
+![04-web-apis-homework-demo (1)](https://user-images.githubusercontent.com/68447140/105617014-ae8fbd80-5d98-11eb-8894-841156340355.gif)
+
+
+
