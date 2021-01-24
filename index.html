@@ -7,19 +7,22 @@
         <link href="./assets">
 		<link href="style.css" rel="stylesheet" type="text/css">
         <script src = "script.js" type="text/javascript"></script>
-	</head>
+    </head>
+    
+    <!-- remember. Class is controlled with "."
+         and id, which only controls a single element is refrenced with a hashtag(#)-->
 	<body>
 		<div id="nav">
 			<!-- view scores link on the top left of nav bar-->
 			<div class="left">
                 <a onclick="getScore()" href="#"><h4 >View Highscore</h4></a>
 			</div>
-			<!-- countdown timer on the top right of nav bar-->
+			<!-- the countdown timer -->
 			<div class="right">
 				<h4>Time: <span id="timeLeft">0</span></h4>
 			</div>
 		</div>
-		<!--main body of quiz-->
+		<!-- body of quiz-->
 		<div id="quiz">
             <div id="quizBody">      
                 <h1>   
