@@ -155,3 +155,9 @@ var quizContent = "<h2>" + questions[currentQuestion].title + "</h2>"
 
 document.getElementById("quizBody").innerHTML = quizContent;
 }
+
+
+
+// sources: https://www.youtube.com/watch?v=49pYIMygIcU
+//        https://www.youtube.com/watch?v=9-5URe9CykA
+//  https://github.com/wendyhub/code-quiz
